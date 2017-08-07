@@ -127,6 +127,8 @@ A packet is created at the host.
 
 ![image alt text](https://i.imgur.com/1PteQwu.png)
 
+**Private ip address space**
+
 ![image alt text](https://i.imgur.com/Dua3xVL.png)
 
 ![image alt text](https://i.imgur.com/QEXxvK7.png)
