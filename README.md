@@ -42,7 +42,7 @@ A packet is created at the host.
 
 6. The Address Resolution Protocol(ARP) cache of the host is checked to see whether the IP address of the default gateway has already been resolved to a hardware address. If it is, the packet is then free to be handed down to the Data Link Layer for framing. If the MAC isn’t already in the ARP cache of the host, an ARP broadcast is sent out onto the local network to search for the MAC address of 172.16.10.1
 
-7. After the packet and destination MAC address have been handed to the Data Link Layer, the WLAN/LAN driver is used to provide media access. A frame is then generated, encapsulation the packet with control information. Below is a typical frame, note that it doesn’t include the remote host’s MAC address. ![image alt text](image_1.png)
+7. After the packet and destination MAC address have been handed to the Data Link Layer, the WLAN/LAN driver is used to provide media access. A frame is then generated, encapsulation the packet with control information. Below is a typical frame, note that it doesn’t include the remote host’s MAC address. ![image alt text](https://i.imgur.com/H7iJqYz.png)
 
 8. When the frame is completed, it’s handed down to the physical layer to be placed onto the  the physical medium one bit at the time.
 
@@ -122,12 +122,12 @@ A packet is created at the host.
 
                                                                                                                  
 
-         ![image alt text](image_2.png)          
+         ![image alt text](https://i.imgur.com/eJKPNiU.png)          
 
 **What is a byte:**
 
-     ![image alt text](image_3.png)
+     ![image alt text](https://i.imgur.com/1PteQwu.png)
 
-![image alt text](image_4.png)
+![image alt text](https://i.imgur.com/Dua3xVL.png)
 
-![image alt text](image_5.png)
+![image alt text](https://i.imgur.com/QEXxvK7.png)
