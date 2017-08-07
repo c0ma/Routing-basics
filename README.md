@@ -121,12 +121,11 @@ A packet is created at the host.
 3. ICMP acknowledges that it has received the replay by sending an exclamation point (!) to the user interface. ICMP then attempts to send four more echo requests to the destination host.
 
                                                                                                                  
-
-         ![image alt text](https://i.imgur.com/eJKPNiU.png)          
+ ![image alt text](https://i.imgur.com/eJKPNiU.png)          
 
 **What is a byte:**
 
-     ![image alt text](https://i.imgur.com/1PteQwu.png)
+![image alt text](https://i.imgur.com/1PteQwu.png)
 
 ![image alt text](https://i.imgur.com/Dua3xVL.png)
 
